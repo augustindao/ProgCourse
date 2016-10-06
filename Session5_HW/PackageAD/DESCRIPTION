@@ -1,0 +1,13 @@
+Package: PackageAD
+Type: Package
+Title: Generates a random integer picked between defined bounds
+Version: 0.0.0.9000
+Date: 2016-10-07
+Author: Augustin Dao [aut, cre]
+Maintainer: Augustin Dao <augustin.dao@sciencespo.fr>
+Description: The package contains a function that generates a random integer. Created for programming course homework 5.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
+Suggests: testthat
