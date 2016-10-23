@@ -1,3 +1,6 @@
 Tyler's Comments
 
 2016.10.03 - HW4 - Nice work Augustin.
+
+2016.10.25 - HW5 - Really nice job. Simple and your package is complete!
+             HW6 - Again, great job. I really like that you proved invertibility by calculating the determinant in R... cheeky.
